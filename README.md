@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/piel-sin-tu-tacto/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Get a Licensing Quote for Piel sin tu tacto](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/piel-sin-tu-tacto/) |
+| **Get License** | [Request Licensing for Piel sin tu tacto](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/piel-sin-tu-tacto/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Yo te siento cerca pero no estás aquí
+> Esta noche la calle me huele a ti
+> La luna me dice que tú vas a volver
+> Tengo sed de tus labios, de tu piel, mujer
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
