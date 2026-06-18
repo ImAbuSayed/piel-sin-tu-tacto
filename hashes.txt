@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Piel sin tu tacto
+
+This log tracks the cryptographic history and versioning for the song **Piel sin tu tacto** (piel-sin-tu-tacto).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-06-18T19:11:14.113922 | `v1` | `ea6589a4f42ef08698c1f1b00f7d1a6c5f7e07abcb9de2ced9f1de1d64c1e9e7` | `8b1f22e7e61b2bc8594360df031ff30ebe26533b28b3b13a2909cb32e4d02966` | `2026-06-18_piel-sin-tu-tacto-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
